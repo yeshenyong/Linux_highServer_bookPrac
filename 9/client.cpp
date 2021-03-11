@@ -84,4 +84,5 @@ int main(int argc, char* argv[])
     return 0;
 }
 
-
+// cd vscode/gogogo/9
+// ./client.out 10.252.72.141 54321
